@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Collaborative Learning",
+        "description": "Connect with friends to create and complete assignments together, making learning more interactive.",
+        "icon": "https://i.ibb.co.com/4JdPrSf/twinkl-qql-FMNINw-I-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Create Assignments",
+        "description": "Easily create assignments and share them with your group for collaborative efforts.",
+        "icon": "https://i.ibb.co.com/grMW6Lt/arisa-chattasa-0-La-BRkm-H4f-M-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Peer Grading",
+        "description": "Review and grade your friends’ assignments to learn and improve together.",
+        "icon": "https://i.ibb.co.com/f8MV744/mimi-thian-vd-XMSi-X-n6-M-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Track Progress",
+        "description": "Monitor completed assignments and track your study goals effortlessly.",
+        "icon": "https://i.ibb.co.com/d4d6Lt5/isaac-smith-6-En-TPv-PPL6-I-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Seamless Communication",
+        "description": "Discuss assignments and share ideas with your study group in real time.",
+        "icon": "https://i.ibb.co.com/FBvLR4p/anastassia-anufrieva-JUlfa5f-AIg-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Flexible Scheduling",
+        "description": "Study anytime, anywhere with a platform that fits your schedule.",
+        "icon": "https://i.ibb.co.com/hdRYSzR/jeshoots-com-9q-QTUYm4ss4-unsplash.jpg"
+    }
+]
